@@ -1,0 +1,12 @@
+dwt.c:6:6:DWT_DelayUpdate	0	static
+dwt.c:12:6:DWT_Init	0	static
+dwt.c:19:10:DWT_GetTick	0	static
+dwt.c:24:6:DWT_Delay_sec	0	static
+dwt.c:31:6:DWT_Delay_ms	0	static
+dwt.c:38:6:DWT_Delay_us	0	static
+dwt.c:47:9:DWT_Test_sec	0	static
+dwt.c:52:9:DWT_Test_ms	0	static
+dwt.c:57:9:DWT_Test_us	0	static
+dwt.c:65:10:DWT_Time_sec	0	static
+dwt.c:70:10:DWT_Time_ms	0	static
+dwt.c:75:10:DWT_Time_us	0	static

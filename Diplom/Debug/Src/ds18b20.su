@@ -1,0 +1,3 @@
+ds18b20.c:5:9:DS18B20_Start	8	static
+ds18b20.c:23:6:DS18B20_Write	24	static
+ds18b20.c:55:9:DS18B20_Read	16	static

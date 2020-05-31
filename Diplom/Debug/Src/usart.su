@@ -1,0 +1,7 @@
+usart.c:29:9:gsm_available	0	static
+usart.c:34:9:gsm_read	0	static
+usart.c:54:9:dbg_available	0	static
+usart.c:59:9:dbg_read	0	static
+usart.c:80:6:MX_USART2_UART_Init	8	static
+usart.c:98:6:HAL_UART_MspInit	40	static
+usart.c:148:6:HAL_UART_MspDeInit	8	static

@@ -1,0 +1,3 @@
+dht_22.c:8:6:DHT11_Start	8	static
+dht_22.c:18:9:DHT11_Check_Response	16	static
+dht_22.c:33:9:DHT11_Read	16	static

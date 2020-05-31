@@ -1,0 +1,3 @@
+ringbuffer_dma.c:3:10:RingBuffer_DMA_Count	0	static
+ringbuffer_dma.c:14:9:RingBuffer_DMA_GetByte	12	static
+ringbuffer_dma.c:31:6:RingBuffer_DMA_Init	0	static
